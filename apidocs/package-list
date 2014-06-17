@@ -1,2 +1,2 @@
-com.github.drochetti.javassist.maven
-com.github.drochetti.javassist.maven.example.transformer
+de.icongmbh.oss.maven.plugin.javassist
+de.icongmbh.oss.maven.plugin.javassist.example.transformer
